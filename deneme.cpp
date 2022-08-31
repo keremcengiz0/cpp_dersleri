@@ -1,0 +1,1 @@
+kerem tarafından oluşturuldu.
