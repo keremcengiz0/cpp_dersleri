@@ -1,6 +1,6 @@
 # cpp_dersleri
 ![resim](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
-## Bu repository örnek olarak yapmış olduğum c++ uygulamarı içeriyor.
+## Bu repository örnek olarak yapmış olduğum c++ uygulamaları içeriyor.
 
 **kalın kelime** <br/>
 *italik kelime* 
